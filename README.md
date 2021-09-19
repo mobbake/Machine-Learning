@@ -1,26 +1,10 @@
 # 机器学习原理
 
----
+原作者不更新了，原作者仓库地址：https://github.com/shunliz/Machine-Learning
 
-机器学习原理笔记整理. Gitbook地址[https://shunliz.gitbooks.io/machine-learning/content/](https://shunliz.gitbooks.io/machine-learning/content/)  
-前半部分关注数学基础，机器学习和深度学习的理论部分，详尽的公式推导。  
-后半部分关注工程实践和理论应用部分
-
-**内容基本都是从互联网上扒来的，侵权的话联系：zsl6658@126.com。**
+**侵权联系：pippppo@163.com**
 
 [如何贡献？](/CONTRIBUTING.md)
-
-# 赞助
-
-如果您觉得这个资料还不错，您也可以打赏一下。
-
-![](/assets/mywebchat.png)
-
-由于我可爱的女儿出生，最近半年这个仓库都没有更新。昨天收到可爱的T\*o同学的打赏，提醒我要坚持更新。
-
-| 姓名 | 金额 |
-| :--- | :--- |
-| T\*o | 6.66 |
 
 ---
 
